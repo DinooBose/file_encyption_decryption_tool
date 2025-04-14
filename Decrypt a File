@@ -1,0 +1,1 @@
+python3 file_encryption_decryption_tool.py decrypt input_file output_file your_password

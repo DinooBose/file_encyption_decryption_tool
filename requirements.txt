@@ -1,9 +1,10 @@
 install the required dependencies :---
         **cryptography**
-```bash
+
 use-:
-     pip install -r requirements.txt
+```bash
+pip install -r requirements.txt ```
 
 or in debian based systems like kali linux :--
-     sudo apt-get install python3-cryptography
-     
+```bash
+sudo apt-get install python3-cryptography 
